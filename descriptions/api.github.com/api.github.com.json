@@ -42537,7 +42537,7 @@
     }
   },
   "components": {
-    "securitySchemes:": {
+    "securitySchemas": {
       "github": {
         "type": "oauth2",
         "description": "Authentication with oauth2",
